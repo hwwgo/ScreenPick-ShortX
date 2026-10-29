@@ -1,0 +1,2 @@
+f3d56a2baf835ffd785735641873677340ff84bffe3a088600b8341d8afc7a78  dist/screenpick_pointer_v7.33.11.js
+8a665068eda0d8f5b1389054818146c2f6587c95f16d22effd877ab2da5f2ee9  dist/屏幕取字_V7.33.11_ShortX导入.txt
