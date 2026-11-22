@@ -1,2 +1,0 @@
-2a2503a5e44d70a869267976b2859ed3bf9e12e39d6eb70aa887f75b2a2287d1  dist/v7.84/屏幕取字_V7.84_ShortX导入.txt
-be1d007f0ac17040d1858a93abd193c71ba529438e98ee508ecdc853fc11320c  dist/v7.84/screenpick_pointer_v7.84.js
